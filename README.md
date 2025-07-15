@@ -33,7 +33,7 @@ These tools facilitate interaction with cloud services and version control platf
 | Tool Name            | Description                                                                                                                                                                       | Download/Installation Link                                                    |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
 | **Azure CLI** | The command-line interface for managing Microsoft Azure resources. It's essential for automating tasks, scripting cloud deployments, and interacting with Azure services from your local machine. | [Install Azure CLI on Windows](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli) |
-| **GitHub Desktop** | An optional but convenient graphical user interface (GUI) for Git and GitHub. It simplifies common Git operations, providing a visual workflow for those who prefer it over the command line. | [Download GitHub Desktop]([https://desktop.github.com/go/download](https://desktop.github.com/download/)             |
+| **GitHub Desktop** | An optional but convenient graphical user interface (GUI) for Git and GitHub. It simplifies common Git operations, providing a visual workflow for those who prefer it over the command line. | [Download GitHub Desktop](https://desktop.github.com/download/)             |
 
 ## 4. Additional Essential Security/Productivity Tools
 
