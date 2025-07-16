@@ -28,7 +28,7 @@ These are the fundamental applications for coding, system interaction, and local
 
 ## 3. Cloud & Collaboration Tools
 
-These tools facilitate interaction with cloud services and version control platforms.
+Hello, these tools facilitate interaction with cloud services and version control platforms.
 
 | Tool Name            | Description                                                                                                                                                                       | Download/Installation Link                                                    |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
